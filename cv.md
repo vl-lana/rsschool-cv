@@ -53,3 +53,5 @@ Bachelor degree in Kazakh-British Technical University (information systems).
 ----------------------------------
 
 - Russian - native 
+- English - intermediate
+
