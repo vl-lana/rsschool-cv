@@ -47,6 +47,7 @@ Bachelor degree in Kazakh-British Technical University (information systems).
 
 - Sberbank Kazakhstan - database developer ( Progress language)
 - BIS (Bank's Information Systems) - database developer
+
 --------------------------------------------------
 
 ### Languages
